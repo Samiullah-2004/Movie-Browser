@@ -37,7 +37,7 @@
 
 ## 🚀 Live Demo
 
-**[→ View Movie Browser](https://movie-browser.vercel.app)**
+**[→ View Movie Browser](https://movie-browser-khaki-seven.vercel.app/)**
 
 ---
 
